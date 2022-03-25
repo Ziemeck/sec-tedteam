@@ -1,0 +1,102 @@
+ioc,file,type,sc-name,date
+8b9c7d2554fe315199fae656448dc193accbec162d4afff3f204ce2346507a8a,advanced_port_scanner.exe,file_hash,noberus,2022-02-23
+bcd8e6029626014bc706e3b8234a59e6d660d7553f8eaea8a17ec6ddc5042161,iisrstas.exe,file_hash,noberus,2022-02-23
+xyz.com,,domain,noberus,2022-02-23
+52.8.203.224,,ip,noberus,2022-02-23
+hxxp://xyz[.]com/minitri.flg,,url,noberus,2022-02-23
+CSIDL_SYSTEM\cmd.exe /c iisreset.exe /stop,,command,noberus,2022-02-23
+arp -a,,command,testowy,2022-02-23
+103.3.162.86,,ip,noberus,2022-02-23
+912342f1c840a42f6b74132f8a7c4ffe7d40fb77,,file_hash,HermeticWiper,2022-02-24
+61b25d11392172e587d8da3045812a66c3385451,,file_hash,HermeticWiper,2022-02-24
+a952e288a1ead66490b3275a807f52e5,,file_hash,HermeticWiper,2022-02-24
+231b3385ac17e41c5bb1b1fcb59599c4,,file_hash,HermeticWiper,2022-02-24
+095a1678021b034903c85dd5acb447ad,,file_hash,HermeticWiper,2022-02-24
+eb845b7a16ed82bd248e395d9852f467,,file_hash,HermeticWiper,2022-02-24
+1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591,,file_hash,HermeticWiper,2022-02-25
+0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da ,,file_hash,HermeticWiper,2022-02-25
+a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3e ,,file_hash,HermeticWiper,2022-02-25
+4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf382,,file_hash,HermeticWiper,2022-02-25
+DRV_XP_X64,,string,HermeticWiper,2022-02-24
+1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591,,file_hash,HermeticWiper,2022-02-24
+EPMNTDRV\\%u,,string,HermeticWiper,2022-02-24
+PhysicalDrive%u,,string,HermeticWiper,2022-02-24
+cmd.exe /Q /c move CSIDL_SYSTEM_DRIVE,,command,HermeticWiper,2022-02-25
+CSIDL_SYSTEM_DRIVE,,string,HermeticWiper,2022-02-25
+powershell -v 2 -exec bypass,,command,HermeticWiper,2022-02-25
+powershell -exec bypass,,command,HermeticWiper,2022-02-25
+Hermetica Digital Ltd,,string,HermeticWiper,2022-02-24
+ac541ed91eaa6d33800303dd249ff1b1fd13bbb712b580a0162f40c7c0681deb,personal.exe,file_hash,noberus,2022-02-24
+6e621d5a351335353dbcb0ee5ddd262f99a26222ad8fe052f883855da96a91e1,personal.exe,file_hash,noberus,2022-02-24
+68bd16bf482508c852205236fabc9324bfcd57ee7c98c9ccd38bc2dc7d904627,personal.exe,file_hash,noberus,2022-02-24
+d5e005e569a694b4d67ec70a6842855359528cd123a549e3b2c3cfe01492231e,personal.exe,file_hash,noberus,2022-02-24
+48ebed950707acb53b20dc0c011e08b0cf5684435898d351331beb6081a22eba,personal.exe,file_hash,noberus,2022-02-24
+3add6a80eae5e7e5b99c8200a11fffae3c8d46b07b19d70383d5564499502828,personal.exe,file_hash,noberus,2022-02-24
+62057fe6d5c4d829671d349665f5da9332bb2eee242fdcf57447aeb640673694,personal.exe,file_hash,noberus,2022-02-24
+2132cf4d2de9df7a1f82ad82f3f2738e1b2f9d1562a08d6f12e61390f87ce11e,personal.exe,file_hash,noberus,2022-02-24
+9f71ee206a31b96e8dfc38d521f565bc188174c47f3f32fd1a592939a956d1a7,personal.exe,file_hash,noberus,2022-02-24
+fc56dafd26d5501a7b4c681f6f0dd0e4a4370afb76c59dcb2a4c6851fad8574f,exchangerulespro2setupen.exe,file_hash,noberus,2022-02-24
+80149b9e13c8f5818b6faefb58cd2a308f21e12cfc394a5347e166a27776398b,cleanup.exe,file_hash,noberus,2022-02-24
+a5a6707ca337dfb13ee623308d5c1fcf74f67121d36c2b6ea8aadccff08becd2,4yxt30ru.dll,file_hash,noberus,2022-02-24
+04241caeefc2fe3db9bfe930e7826569562186f9e5b900126cf35b17bc05cc9a,4zf5ewwp.dll,file_hash,noberus,2022-02-24
+ac541ed91eaa6d33800303dd249ff1b1fd13bbb712b580a0162f40c7c0681deb,ixf0umlt.dll,file_hash,noberus,2022-02-24
+iisreset.exe /stop,,command,noberus,2022-02-24
+d01e2c2e8df92edeb8298c55211bc4b6,cpd,file_hash,CyclopsBlink,2022-02-25
+3adf9a59743bc5d8399f67cab5eb2daf28b9b863,cpd,file_hash,CyclopsBlink,2022-02-25
+50df5734dd0c6c5983c21278f119527f9fdf6ef1d7e808a29754ebc5253e9a86,cpd,file_hash,CyclopsBlink,2022-02-25
+bbb76de7654337fb6c2e851d106cebc7,cpd,file_hash,CyclopsBlink,2022-02-25
+c59bc17659daca1b1ce65b6af077f86a648ad8a8,cpd,file_hash,CyclopsBlink,2022-02-25
+c082a9117294fa4880d75a2625cf80f63c8bb159b54a7151553969541ac35862,cpd,file_hash,CyclopsBlink,2022-02-25
+3c9d46dc4e664e20f1a7256e14a33766,install_upgrade,file_hash,CyclopsBlink,2022-02-25
+7d61c0dd0cd901221a9dff9df09bb90810754f10,install_upgrade,file_hash,CyclopsBlink,2022-02-25
+4e69bbb61329ace36fbe62f9fb6ca49c37e2e5a5293545c44d155641934e39d1,install_upgrade,file_hash,CyclopsBlink,2022-02-25
+3f22c0aeb1eec4350868368ea1cc798c,install_upgrade,file_hash,CyclopsBlink,2022-02-25
+438cd40caca70cafe5ca436b36ef7d3a6321e858,install_upgrade,file_hash,CyclopsBlink,2022-02-25
+ff17ccd8c96059461710711fcc8372cfea5f0f9eb566ceb6ab709ea871190dc6,install_upgrade,file_hash,CyclopsBlink,2022-02-25
+/pending/WGUpgrade-dl,,command,CyclopsBlink,2022-02-25
+/var/tmp/a.tmp,,command,CyclopsBlink,2022-02-25
+/etc/wg/configd-hash.xml,,command,CyclopsBlink,2022-02-25
+100.43.220.234,,ip,CyclopsBlink,2022-02-25
+100.43.220.234,,ip,CyclopsBlink,2022-02-25
+96.80.68.193,,ip,CyclopsBlink,2022-02-25
+188.152.254.170,,ip,CyclopsBlink,2022-02-25
+208.81.37.50,,ip,CyclopsBlink,2022-02-25
+70.62.153.174,,ip,CyclopsBlink,2022-02-25
+2.230.110.137,,ip,CyclopsBlink,2022-02-25
+90.63.245.175,,ip,CyclopsBlink,2022-02-25
+212.103.208.182,,ip,CyclopsBlink,2022-02-25
+50.255.126.65,,ip,CyclopsBlink,2022-02-25
+78.134.89.167,,ip,CyclopsBlink,2022-02-25
+81.4.177.118,,ip,CyclopsBlink,2022-02-25
+24.199.247.222,,ip,CyclopsBlink,2022-02-25
+37.99.163.162,,ip,CyclopsBlink,2022-02-25
+37.71.147.186,,ip,CyclopsBlink,2022-02-25
+105.159.248.137,,ip,CyclopsBlink,2022-02-25
+80.155.38.210,,ip,CyclopsBlink,2022-02-25
+217.57.80.18,,ip,CyclopsBlink,2022-02-25
+151.0.169.250,,ip,CyclopsBlink,2022-02-25
+212.202.147.10,,ip,CyclopsBlink,2022-02-25
+212.234.179.113,,ip,CyclopsBlink,2022-02-25
+185.82.169.99,,ip,CyclopsBlink,2022-02-25
+93.51.177.66,,ip,CyclopsBlink,2022-02-25
+80.15.113.188,,ip,CyclopsBlink,2022-02-25
+80.153.75.103,,ip,CyclopsBlink,2022-02-25
+109.192.30.125,,ip,CyclopsBlink,2022-02-25
+CONTI.txt,,string,conti,2022-02-28
+R3ADM3.txt,,string,conti,2022-02-28
+CONTI_README.txt,,string,conti,2022-02-28
+85.93.88.165,,ip,conti,2022-02-28
+185.141.63.120,,ip,conti,2022-02-28
+82.118.21.1,,ip,conti,2022-02-28
+162.244.80.235,,ip,conti,2022-02-28
+eae876886f19ba384f55778634a35a1d975414e83f22f6111e3e792f706301fe,,file_hash,conti,2022-02-28
+8fd7c81d43f8469246321a90b8d4f7f7fd72beb01105241536f9a058f4a7f990,,file_hash,conti,2022-02-28
+bd99cc0ed51fdd113368343b2ba4f2bb02ce12a3aa506f7f03d80e401ec75a6c,,file_hash,conti,2022-02-28
+37410f45bab40e0d5e8e2160b480d928c975fadbe423be884678b924d66871d2,,file_hash,conti,2022-02-28
+41896f40197a6160fcab046b5fc63a36d0805dbb1ca5a03af35b92b27d9a0eb5,,file_hash,conti,2022-02-28
+4b8da74ff9c7b664056d060eb1303a51e8ad1a3e947a5ff69efebc5d6a7f2027,,file_hash,conti,2022-02-28
+5e876b2c4bc1a3d6eb3f592e8dc5dd6fce804372ebd0ba89a9c0f71cad0ff877,,file_hash,conti,2022-02-28
+614d6fbaf64a4330fe7664292a60a2f0d6a77a66f6628e5bcc28cd50bf54d4fe,,file_hash,conti,2022-02-28
+7c903730ae87d0578f0085b0cc55b5b62f4d19eec16edb3ae0613a88371b4460,,file_hash,conti,2022-02-28
+a5d22b017d76494d62749b5ba72dd38a0b3a9c6405762f343f5cc7da801f5f45,,file_hash,conti,2022-02-28
+aa849693feb5f9fa82d8cf16a03d1b8b7e20ad2a4b74ba3b9c905c9d3c2946bb,,file_hash,conti,2022-02-28
